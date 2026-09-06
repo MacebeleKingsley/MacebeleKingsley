@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @MacebeleKingsley
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Tintswalo-Macebele.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-<!---
-MacebeleKingsley/MacebeleKingsley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me    
+I'm a mechatronics engineering guy with a knack for warehouse operations, optimisations and inventory management. I've worked on many continuos improvement projects and warehouse layout projects - PCB designing is one of my favorite hobbies outside of work. Technology is my passion and I love exploring all the different areas it touches.
+    
+
+## Languages and Tools 
+
+
+### Languages:
+| Python | C | C++ | 
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> | 
+
+  
+
+### Best frameworks and libraries for Machine Learning:
+
+| Numpy | Pandas | 
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|
+
+
+
+### My tools for Data Manipulation:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>
+
+
+
+### Connect with Me 
+
+<p align="center">
+<a href="https://www.linkedin.com/in/burhan-webb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Burhan-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://buymeacoffee.com/burhan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 21px !important;width: 96px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="mailto:iburhanwebb@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Burhan-blue?style=flat-square&logo=gmail"></a>
+</p>
