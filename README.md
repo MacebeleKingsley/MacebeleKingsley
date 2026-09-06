@@ -31,7 +31,6 @@ I'm a mechatronics engineering guy with a knack for warehouse operations, optimi
 ### Connect with Me 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/burhan-webb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Burhan-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://buymeacoffee.com/burhan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 21px !important;width: 96px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-<a href="mailto:iburhanwebb@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Burhan-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/tintswalo-macebele/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tintswalo-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:macebelekingsley@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Tintswalo-blue?style=flat-square&logo=gmail"></a>
 </p>
