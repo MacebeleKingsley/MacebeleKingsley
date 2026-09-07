@@ -66,14 +66,6 @@ The project investigated how inverter-side and grid-side inductance could be dyn
 
 📄 [View Project Report](reports/EEE4022F_2024_final_report_MCBTIN001_MACEBELE_SAMPATH.pdf)
 
-<p align="center">
-  <img src="images/images/Electrical.jpg" width="500">
-</p>
-
-<p align="center">
-  <i>5 kW Grid-Connected Inverter System</i>
-</p>
-
 ---
 
 # 🎓 Education
