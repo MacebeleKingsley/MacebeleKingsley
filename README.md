@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Tintswalo-Macebele.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Tintswalo-Macebele.&fontSize=70&color=0:8B0000,100:b678c4&stroke=b678c4)
 
 ## About Me    
 I'm a mechatronics engineering guy with a knack for warehouse operations, optimisations and inventory management. I've worked on many continuos improvement projects and warehouse layout projects - PCB designing is one of my favorite hobbies outside of work. Technology is my passion and I love exploring all the different areas it touches.
