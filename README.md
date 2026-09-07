@@ -1,33 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Tintswalo-Macebele.&fontSize=70&color=0:8B0000,100:b678c4&stroke=b678c4)
 
 ## About Me    
-I'm a mechatronics engineering guy with a knack for warehouse operations, optimisations and inventory management. I've worked on many continuos improvement projects and warehouse layout projects - PCB designing is one of my favorite hobbies outside of work. Technology is my passion and I love exploring all the different areas it touches.
-    
+I’m a Mechatronics Engineering graduate from the University of Cape Town (UCT) with experience spanning project engineering, warehouse operations, systems design, automation, embedded systems, control engineering, and data-driven process improvement.
 
-## Languages and Tools 
-
-
-### Languages:
-| Python | C | C++ | 
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> | 
-
-  
-
-### Best frameworks and libraries for Machine Learning:
-
-| Numpy | Pandas | 
-|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|
-
-
-
-### My tools for Data Manipulation:
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>
-
-
-
+I enjoy solving complex engineering and operational problems by combining technical analysis, structured project management, and practical implementation.
+ 
 ### Connect with Me 
 
 <p align="center">
